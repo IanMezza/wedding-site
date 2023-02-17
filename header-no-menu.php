@@ -10,12 +10,15 @@
  */
 
 ?><!DOCTYPE html>
-<html <?php language_attributes(); ?>>
+<!--<html --><?php //language_attributes(); ?><!-->
+<html lang="es"></html>
 	<head>
 		<meta charset="<?php bloginfo( 'charset' ); ?>">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="profile" href="http://gmpg.org/xfn/11">
 		<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+        <link rel="stylesheet" id="lightgallery-css" href="https://xn--labodadelao-beb.love/wp-content/themes/jackrose/siteorigin/widgets/jackrose-sow-gallery-grid/css/lightgallery.min.css?ver=1.2.19" type="text/css" media="all">
+        <link rel="stylesheet" id="dashicons-css" href="https://xn--labodadelao-beb.love/wp-includes/css/dashicons.min.css?ver=6.1.1" type="text/css" media="all">
 
 		<?php wp_head(); ?>
 	</head>
@@ -67,9 +70,9 @@
 			<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'jackrose' ); ?></a>
 			<div id="top"></div>
 
-<!--			--><?php //jackrose_hero_section(); ?>
-<!---->
-<!--			--><?php //jackrose_header(); ?>
+<?php jackrose_hero_section(); ?>
+
+<?php //jackrose_header(); ?>
 
 			<div id="content" class="site-content content-section">
 				<div class="wrapper">

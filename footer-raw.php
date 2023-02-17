@@ -14,13 +14,16 @@
 				</div><!-- .wrapper -->
 			</div><!-- #content -->
 
-<!--			--><?php //jackrose_footer(); ?>
+<!--			--><?php jackrose_footer();
+
+?>
 
 			<?php jackrose_background_music(); ?>
 
 		</div><!-- #page -->
 
 		<?php wp_footer(); ?>
+
 
 	</body>
 </html>
