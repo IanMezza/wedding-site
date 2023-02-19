@@ -231,15 +231,15 @@ function arrayInvitados()
         ),
 //17
         '22d870d850' => array(
-            'tratamiento' => 'Familia',
-            'nombre' => '',
+            'tratamiento' => '',
+            'nombre' => 'César Grande Meza y familia',
             'adultos' => '2 Adultos',
             'niños' => '2 Niños'
         ),
 //18
         'a2e4589ace' => array(
-            'tratamiento' => 'Familia',
-            'nombre' => '',
+            'tratamiento' => '',
+            'nombre' => 'Rogelio Grande Meza y familia',
             'adultos' => '4 Adultos',
             'niños' => '1 Niño'
         ),
@@ -316,8 +316,8 @@ function arrayInvitados()
 //29
         'b6e5274ac7' => array(
             'tratamiento' => '',
-            'nombre' => '',
-            'adultos' => '0 Adultos',
+            'nombre' => 'Alejandro Hernández Meza y familia',
+            'adultos' => '5 Adultos',
             'niños' => ''
         ),
 //30
@@ -344,9 +344,9 @@ function arrayInvitados()
 //33
         '0b544d2beb' => array(
             'tratamiento' => 'Familia',
-            'nombre' => '',
+            'nombre' => 'Ortega Díaz',
             'adultos' => '2 Adultos',
-            'niños' => '2 Niños'
+            'niños' => ''
         ),
 //34
         '723ef9eb2k' => array(
