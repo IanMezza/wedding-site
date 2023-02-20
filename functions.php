@@ -409,7 +409,7 @@ function arrayInvitados()
             'tratamiento' => 'Invitado',
             'nombre' => 'Gustavo Carrillo',
             'adultos' => '1 Adulto',
-            'niños' => '1 Niño'
+            'niños' => ''
         ),
 //43
         'ef7966590f4' => array(
