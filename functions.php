@@ -191,7 +191,7 @@ function arrayInvitados()
         '674ba7bf91' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'Zamora Marín',
-            'adultos' => '2 Adultos',
+            'adultos' => '1 Adulto',
             'niños' => '1 Niño'
         ),
 //12
@@ -225,7 +225,7 @@ function arrayInvitados()
 //16
         'd943295f32' => array(
             'tratamiento' => 'Familia',
-            'nombre' => '',
+            'nombre' => 'Grande Fernández',
             'adultos' => '2 Adultos',
             'niños' => '1 Niño'
         ),
@@ -280,8 +280,8 @@ function arrayInvitados()
         ),
 //24
         '418a4d5b9e' => array(
-            'tratamiento' => 'Familia',
-            'nombre' => '',
+            'tratamiento' => '',
+            'nombre' => 'Yuri Pedraza Meza',
             'adultos' => '0 Adultos',
             'niños' => ''
         ),
@@ -309,9 +309,9 @@ function arrayInvitados()
 //28
         'bfa28c0ae4' => array(
             'tratamiento' => 'Familia',
-            'nombre' => '',
-            'adultos' => '0 Adultos',
-            'niños' => ''
+            'nombre' => 'Ortega Pedraza', // Karolyna Pedraza Meza
+            'adultos' => '2 adultos',
+            'niños' => '2 niños'
         ),
 //29
         'b6e5274ac7' => array(
@@ -322,10 +322,10 @@ function arrayInvitados()
         ),
 //30
         '550ea454a7' => array(
-            'tratamiento' => 'Familia',
-            'nombre' => '',
+            'tratamiento' => '',
+            'nombre' => 'Abraham Meza Lima y familia',
             'adultos' => '3 Adultos',
-            'niños' => '3 Niños'
+            'niños' => ''
         ),
 //31
         '1c9253ee8e' => array(
