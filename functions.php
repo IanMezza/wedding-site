@@ -260,7 +260,7 @@ function arrayInvitados()
 //21
         '70d8502739' => array(
             'tratamiento' => 'Familia',
-            'nombre' => '',
+            'nombre' => 'Grande Díaz',
             'adultos' => '3 Adultos',
             'niños' => ''
         ),
@@ -280,31 +280,31 @@ function arrayInvitados()
         ),
 //24
         '418a4d5b9e' => array(
-            'tratamiento' => '',
-            'nombre' => 'Yuri Pedraza Meza',
-            'adultos' => '0 Adultos',
-            'niños' => ''
+            'tratamiento' => 'Familia',
+            'nombre' => 'Velasco Pedraza',
+            'adultos' => '4 Adultos',
+            'niños' => '1 Niño'
         ),
 //25
         '40af83f89d' => array(
             'tratamiento' => 'Familia',
-            'nombre' => '',
-            'adultos' => '0 Adultos',
-            'niños' => ''
+            'nombre' => 'Pedraza Cruz',
+            'adultos' => '2 Adultos',
+            'niños' => '2 Niños'
         ),
 //26
         'fdb336e566' => array(
             'tratamiento' => 'Familia',
-            'nombre' => '',
-            'adultos' => '0 Adultos',
-            'niños' => ''
+            'nombre' => 'Pedraza Lechuga',
+            'adultos' => '2 Adultos',
+            'niños' => '2 Niños'
         ),
 //27
         '6a0596b198' => array(
             'tratamiento' => 'Invitada',
-            'nombre' => '',
+            'nombre' => 'Viridiana Pedraza Meza',
             'adultos' => '1 Adulto',
-            'niños' => '1 Niño'
+            'niños' => ''
         ),
 //28
         'bfa28c0ae4' => array(
@@ -733,7 +733,7 @@ function arrayInvitados()
 //88
         'ecf8ee4h45' => array(
             'tratamiento' => 'Invitada',
-            'nombre' => 'Rubí Olvera Cortés ',
+            'nombre' => 'Rubí Olvera Cortés',
             'adultos' => '2 Adultos',
             'niños' => ''
         ),
@@ -748,7 +748,18 @@ function arrayInvitados()
         ),
 
 //        Segunda lista
-
+        'efd9oa4h97' => array(
+            'tratamiento' => 'Familia',
+            'nombre' => 'Romero Hernández',
+            'adultos' => '2 Adultos',
+            'niños' => ''
+        ),
+        'ecf8baf4e9' => array(
+            'tratamiento' => 'Familia',
+            'nombre' => 'Fabián Zamora y familia',
+            'adultos' => '2 Adultos',
+            'niños' => ''
+        ),
     );
 }
 
