@@ -253,7 +253,7 @@ function arrayInvitados()
 //20
         '295f321f30' => array(
             'tratamiento' => 'Familia',
-            'nombre' => '',
+            'nombre' => 'Velez Grande',
             'adultos' => '3 Adultos',
             'niños' => ''
         ),
@@ -267,7 +267,7 @@ function arrayInvitados()
 //22
         '2c56784105' => array(
             'tratamiento' => 'Familia',
-            'nombre' => '',
+            'nombre' => 'Lozano Grande',
             'adultos' => '2 Adultos',
             'niños' => '1 Niño'
         ),
@@ -393,9 +393,9 @@ function arrayInvitados()
 //40
         '6644dc5701' => array(
             'tratamiento' => 'Invitado',
-            'nombre' => '',
+            'nombre' => 'Humberto Morales Cortés',
             'adultos' => '1 Adulto',
-            'niños' => '1 Niño'
+            'niños' => ''
         ),
 //41
         'e1b097d9a7' => array(
@@ -758,6 +758,24 @@ function arrayInvitados()
             'tratamiento' => 'Familia',
             'nombre' => 'Fabián Zamora y familia',
             'adultos' => '2 Adultos',
+            'niños' => ''
+        ),
+        'af4e9e42e' => array(
+            'tratamiento' => 'Invitada',
+            'nombre' => 'Arminda Hernández Camacho',
+            'adultos' => '2',
+            'niños' => ''
+        ),
+        '1b2ee4c8ba' => array(
+            'tratamiento' => 'Familia',
+            'nombre' => 'Quintero Muñoz',
+            'adultos' => '2',
+            'niños' => ''
+        ),
+        'a4h9e0c09' => array(
+            'tratamiento' => 'Familia',
+            'nombre' => '',
+            'adultos' => '',
             'niños' => ''
         ),
     );
