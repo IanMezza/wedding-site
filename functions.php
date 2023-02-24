@@ -763,13 +763,13 @@ function arrayInvitados()
         'af4e9e42e' => array(
             'tratamiento' => 'Invitada',
             'nombre' => 'Arminda Hernández Camacho',
-            'adultos' => '2',
+            'adultos' => '2 Adultos',
             'niños' => ''
         ),
         '1b2ee4c8ba' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'Quintero Muñoz',
-            'adultos' => '2',
+            'adultos' => '2 Adultos',
             'niños' => ''
         ),
         'a4h9e0c09' => array(
