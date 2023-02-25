@@ -150,7 +150,7 @@ function arrayInvitados()
             'tratamiento' => 'Familia',
             'nombre' => 'Olvera Trujillo ',
             'adultos' => '2 Adultos',
-            'niños' => ''
+            'niños' => '1 niño'
         ),
 // 6
         'b15db42edc' => array(
