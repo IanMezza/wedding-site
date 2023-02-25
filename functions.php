@@ -170,8 +170,8 @@ function arrayInvitados()
         '8bdd46a41f' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'Zamora Rodríguez',
-            'adultos' => '2 Adultos',
-            'niños' => ''
+            'adultos' => '3 Adultos',
+            'niños' => '1 niño'
         ),
 //9
         'c8f51c9cef' => array(
