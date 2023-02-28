@@ -386,9 +386,9 @@ function arrayInvitados()
 //39
         '0a6136c7d5' => array(
             'tratamiento' => 'Familia',
-            'nombre' => '',
-            'adultos' => '2 Adultos',
-            'niños' => '2 Niños'
+            'nombre' => 'Hugo Fuentes López y familia',
+            'adultos' => '4 Adultos',
+            'niños' => ''
         ),
 //40
         '6644dc5701' => array(
@@ -400,9 +400,9 @@ function arrayInvitados()
 //41
         'e1b097d9a7' => array(
             'tratamiento' => 'Invitado',
-            'nombre' => '',
+            'nombre' => 'Luis Mendoza y familia',
             'adultos' => '2 Adultos',
-            'niños' => '2 Niños'
+            'niños' => ''
         ),
 //42
         'c93195bdaa' => array(
@@ -773,10 +773,16 @@ function arrayInvitados()
             'niños' => ''
         ),
         'a4h9e0c09' => array(
-            'tratamiento' => 'Familia',
-            'nombre' => '',
-            'adultos' => '',
+            'tratamiento' => 'Invitado',
+            'nombre' => 'Belmar Romero Hernández',
+            'adultos' => '2 Adultos',
             'niños' => ''
+        ),
+        '4hai28dak' => array(
+            'tratamiento' => 'Familia',
+            'nombre' => 'Romero Olvera',
+            'adultos' => '2 Adultos',
+            'niños' => '2 Niños'
         ),
     );
 }
