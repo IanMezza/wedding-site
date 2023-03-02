@@ -143,7 +143,7 @@ function arrayInvitados()
             'tratamiento' => 'Familia',
             'nombre' => 'Olvera Meza',
             'adultos' => '2 Adultos',
-            'niños' => ' 1 Niño'
+            'niños' => ''
         ),
 // 5
         'e2k4esa8lq' => array(
@@ -500,8 +500,8 @@ function arrayInvitados()
         '3176670d02' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'León Robles',
-            'adultos' => '4 Adultos',
-            'niños' => '1 Niño'
+            'adultos' => '2 Adultos',
+            'niños' => '3 Niños'
         ),
 //56
         '4452109c3d' => array(
@@ -605,7 +605,7 @@ function arrayInvitados()
         '321b7d2c38' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'Cruz Amador',
-            'adultos' => '4 Adultos',
+            'adultos' => '2 Adultos',
             'niños' => ''
         ),
 //71
