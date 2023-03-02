@@ -254,7 +254,7 @@ function arrayInvitados()
         '295f321f30' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'Velez Grande',
-            'adultos' => '3 Adultos',
+            'adultos' => '5 Adultos',
             'niños' => ''
         ),
 //21
