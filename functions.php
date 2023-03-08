@@ -775,7 +775,7 @@ function arrayInvitados()
         'a4h9e0c09' => array(
             'tratamiento' => 'Invitado',
             'nombre' => 'Belmar Romero Hernández',
-            'adultos' => '2 Adultos',
+            'adultos' => '1 Adulto',
             'niños' => ''
         ),
         '4hai28dak' => array(
