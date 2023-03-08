@@ -416,7 +416,7 @@ function arrayInvitados()
             'tratamiento' => 'Invitado',
             'nombre' => 'Carlos Solares',
             'adultos' => '1 Adulto',
-            'niños' => '1 Niño'
+            'niños' => ''
         ),
         // Arely
 //44
