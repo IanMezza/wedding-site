@@ -329,9 +329,9 @@ function arrayInvitados()
         ),
 //31
         '1c9253ee8e' => array(
-            'tratamiento' => 'Familia',
-            'nombre' => '',
-            'adultos' => '0 Adultos',
+            'tratamiento' => '',
+            'nombre' => 'Héctor Meza Lima y familia',
+            'adultos' => '3 Adultos',
             'niños' => ''
         ),
 //32
@@ -686,7 +686,7 @@ function arrayInvitados()
             'niños' => ''
         ),
 
-        // Enfrente
+        // Enfrentee
 
 //82
         '9efa18217e' => array(
@@ -788,8 +788,8 @@ function arrayInvitados()
 }
 
 //saber el hash
-
-$hash = '7Ablfd9oa';
+//
+//$hash = '7Ablfd9oa';
 
 
 if (array_key_exists($_REQUEST['id'], arrayInvitados())) {
