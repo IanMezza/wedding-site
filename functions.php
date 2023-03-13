@@ -373,7 +373,13 @@ function arrayInvitados()
         '56d4deb6a2' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'Fuentes López',
-            'adultos' => '3 Adultos',
+            'adultos' => '2 Adultos',
+            'niños' => ''
+        ),
+        '3ZqA8iqvPj' => array(
+            'tratamiento' => 'Invitado',
+            'nombre' => 'Hugo Enrique Fuentes López',
+            'adultos' => '2 Adultos',
             'niños' => ''
         ),
 //38
