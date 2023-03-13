@@ -335,12 +335,6 @@ function arrayInvitados()
             'niños' => ''
         ),
 //32
-        '1c8ba9ff4e94ecf' => array(
-            'tratamiento' => 'Familia',
-            'nombre' => '',
-            'adultos' => '0 Adultos',
-            'niños' => ''
-        ),
 //33
         '0b544d2beb' => array(
             'tratamiento' => 'Familia',
