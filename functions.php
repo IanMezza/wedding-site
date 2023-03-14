@@ -360,8 +360,8 @@ function arrayInvitados()
         '8f1c5707a5' => array(
             'tratamiento' => 'Familia',
             'nombre' => '',
-            'adultos' => '2 Adultos',
-            'niños' => '2 Niños'
+            'adultos' => '3 Adultos',
+            'niños' => ''
         ),
 //37
         '56d4deb6a2' => array(
@@ -380,7 +380,7 @@ function arrayInvitados()
         'bb4f8f7b2b' => array(
             'tratamiento' => '',
             'nombre' => 'Hugo Fuentes López y familia',
-            'adultos' => '4 Adultos',
+            'adultos' => '3 Adultos',
             'niños' => ''
         ),
 //39
