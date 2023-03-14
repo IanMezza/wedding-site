@@ -358,8 +358,8 @@ function arrayInvitados()
         ),
 //36
         '8f1c5707a5' => array(
-            'tratamiento' => 'Familia',
-            'nombre' => '',
+            'tratamiento' => '',
+            'nombre' => 'Lidia Meza y familia',
             'adultos' => '3 Adultos',
             'niños' => ''
         ),
