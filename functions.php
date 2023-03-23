@@ -386,8 +386,8 @@ function arrayInvitados()
 //39
         '0a6136c7d5' => array(
             'tratamiento' => 'Familia',
-            'nombre' => 'Hugo Fuentes López y familia',
-            'adultos' => '4 Adultos',
+            'nombre' => 'Omaña Ángeles',
+            'adultos' => '2 Adultos',
             'niños' => ''
         ),
 //40
