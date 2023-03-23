@@ -331,7 +331,7 @@ function arrayInvitados()
         '1c9253ee8e' => array(
             'tratamiento' => '',
             'nombre' => 'Héctor Meza Lima y familia',
-            'adultos' => '3 Adultos',
+            'adultos' => '4 Adultos',
             'niños' => ''
         ),
 //32
@@ -783,6 +783,24 @@ function arrayInvitados()
             'nombre' => 'Romero Olvera',
             'adultos' => '2 Adultos',
             'niños' => '2 Niños'
+        ),
+        'wQRxcI1IcTyVHELF' => array(
+            'tratamiento' => 'Invitada',
+            'nombre' => 'Osmara Nasser Carmona',
+            'adultos' => '2 Adultos',
+            'niños' => ''
+        ),
+        'dmAThb5yYCGJuSfh' => array(
+            'tratamiento' => 'Invitada',
+            'nombre' => 'Guadalupe Hernández Aguirre',
+            'adultos' => '2 Adultos',
+            'niños' => ''
+        ),
+        '3V5audRxjPVMs8Dy' => array(
+            'tratamiento' => 'Invitado',
+            'nombre' => 'Juan José Fernández',
+            'adultos' => '2 Adultos',
+            'niños' => ''
         ),
     );
 }
