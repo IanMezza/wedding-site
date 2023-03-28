@@ -64,7 +64,7 @@ if ( ! function_exists( 'jackrose_hero_logo' ) ) :
                         <h1 class="text-n">ARELY & IAN</h1>
                     </div>
                     <div class="img-container">
-                        <Img class="separador" src="https://invitacion.mx/wp-content/uploads/2020/09/ornamen-18.png"></Img>
+                        <Img class="separador" src="https://xn--labodadelao-beb.love/wp-content/uploads/2023/03/separador.png"></Img>
                     </div>
                     <div class="text-p">
                         <p>Te invitamos a compartir <br>la alegría de unir nuestras vidas</p>
