@@ -198,7 +198,7 @@ function arrayInvitados()
         'a6134c33a3' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'Zamora López',
-            'adultos' => '3 Adultos',
+            'adultos' => '4 Adultos',
             'niños' => ''
         ),
 //13
@@ -331,7 +331,7 @@ function arrayInvitados()
         '1c9253ee8e' => array(
             'tratamiento' => '',
             'nombre' => 'Héctor Meza Lima y familia',
-            'adultos' => '4 Adultos',
+            'adultos' => '5 Adultos',
             'niños' => ''
         ),
 //32
@@ -514,16 +514,10 @@ function arrayInvitados()
         'de823e8f19' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'Carrillo Hernández',
-            'adultos' => '2 Adultos',
+            'adultos' => '1 Adulto',
             'niños' => ''
         ),
 //58
-        'fb148bc2f6' => array(
-            'tratamiento' => 'Familia',
-            'nombre' => 'Carrillo Hernández ',
-            'adultos' => '1 Adulto',
-            'niños' => '2 Niños'
-        ),
 //59
         '4a9ae9b451' => array(
             'tratamiento' => 'Familia',
