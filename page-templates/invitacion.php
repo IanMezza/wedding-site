@@ -990,7 +990,7 @@ get_header( 'no-menu' );
 																	<div style="display: flex;">
 																		<div>
 																			<img
-																				src="https://cdn-icons-png.flaticon.com/512/589/589762.png"
+																				src="https://xn--labodadelao-beb.love/wp-content/uploads/2023/03/iglesia.png"
 																				width="50px" height="50px"
 																				style="margin-right: 5vh">
 																		</div>
@@ -1006,7 +1006,7 @@ get_header( 'no-menu' );
 																	<div style="display: flex; margin-top: 40px">
 																		<div>
 																			<img
-																				src="https://cdn-icons-png.flaticon.com/512/7198/7198260.png"
+																				src="https://xn--labodadelao-beb.love/wp-content/uploads/2023/03/botos.png"
 																				width="50px" height="50px"
 																				style="margin-right: 5vh">
 																		</div>
@@ -1022,7 +1022,7 @@ get_header( 'no-menu' );
 																	<div style="display: flex; margin-top: 40px">
 																		<div>
 																			<img
-																				src="https://cdn-icons-png.flaticon.com/512/2555/2555700.png"
+																				src="https://xn--labodadelao-beb.love/wp-content/uploads/2023/03/cena.png"
 																				width="50px" height="50px"
 																				style="margin-right: 5vh">
 																		</div>
