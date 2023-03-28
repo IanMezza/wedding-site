@@ -805,8 +805,6 @@ function arrayInvitados()
     );
 }
 
-//saber el hash
-//
 //$hash = '7Ablfd9oa';
 
 
@@ -822,6 +820,10 @@ if (array_key_exists($_REQUEST['id'], arrayInvitados())) {
     $kids = '';
 }
 
-
+//add_action( 'rest_api_init', function () {
+//    add_filter( 'rest_allow_anonymous_comments', '__return_true' );
+//    remove_filter( 'rest_authentication_errors', 'rest_cookie_check_errors', 100 );
+//    remove_filter( 'rest_authentication_errors', 'rest_cookie_check_application_password', 100 );
+//} );
 
 
