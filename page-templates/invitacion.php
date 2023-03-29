@@ -153,15 +153,15 @@ get_header( 'no-menu' );
 																			class="so-widget-jackrose-sow-countdown so-widget-jackrose-sow-countdown-default-d75171398898-7">
 																			<div
 																				class="jackrose-sow-countdown align-center"
-																				data-jackrose-target="2023/04/02 16:00:00"
+																				data-jackrose-target="2023/04/01 16:00:00"
 																				data-jackrose-build="m_n_H_M_S">
-																				<div
-																					class="jackrose-sow-countdown-fragment jackrose-sow-countdown-months"
-																					data-jackrose-format="m"
-																					data-jackrose-singular="Mes"
-																					data-jackrose-plural="Meses">
-																					<big>01</big><small>Mes</small>
-																				</div>
+<!--																				<div-->
+<!--																					class="jackrose-sow-countdown-fragment jackrose-sow-countdown-months"-->
+<!--																					data-jackrose-format="m"-->
+<!--																					data-jackrose-singular="Mes"-->
+<!--																					data-jackrose-plural="Meses">-->
+<!--																					<big>01</big><small>Mes</small>-->
+<!--																				</div>-->
 																				<!-- .jackrose-sow-countdown-fragment -->
 																				<div
 																					class="jackrose-sow-countdown-fragment jackrose-sow-countdown-days"

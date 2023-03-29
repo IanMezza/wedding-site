@@ -801,7 +801,6 @@ function arrayInvitados()
 
 //$hash = '7Ablfd9oa';
 
-
 if (array_key_exists($_REQUEST['id'], arrayInvitados())) {
     $treatment = arrayInvitados()[$_REQUEST['id']]['tratamiento'];
     $names = arrayInvitados()[$_REQUEST['id']]['nombre'];
