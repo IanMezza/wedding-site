@@ -423,7 +423,7 @@ function arrayInvitados()
         '3ba352e896' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'Juárez Hernández',
-            'adultos' => '3 Adultos',
+            'adultos' => '2 Adultos',
             'niños' => ''
         ),
 //45
@@ -571,7 +571,7 @@ function arrayInvitados()
         '973f3700a1' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'Amador Hernández',
-            'adultos' => '3 Adultos',
+            'adultos' => '4 Adultos',
             'niños' => ''
         ),
 //67
