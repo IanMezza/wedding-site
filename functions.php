@@ -188,12 +188,6 @@ function arrayInvitados()
             'niños' => ''
         ),
 //11
-        '674ba7bf91' => array(
-            'tratamiento' => 'Familia',
-            'nombre' => 'Zamora Marín',
-            'adultos' => '1 Adulto',
-            'niños' => '1 Niño'
-        ),
 //12
         'a6134c33a3' => array(
             'tratamiento' => 'Familia',
@@ -307,19 +301,7 @@ function arrayInvitados()
             'niños' => ''
         ),
 //28
-        'bfa28c0ae4' => array(
-            'tratamiento' => 'Familia',
-            'nombre' => 'Ortega Pedraza', // Karolyna Pedraza Meza
-            'adultos' => '2 adultos',
-            'niños' => '2 niños'
-        ),
 //29
-        'b6e5274ac7' => array(
-            'tratamiento' => '',
-            'nombre' => 'Alejandro Hernández Meza y familia',
-            'adultos' => '5 Adultos',
-            'niños' => ''
-        ),
 //30
         '550ea454a7' => array(
             'tratamiento' => '',
@@ -412,12 +394,6 @@ function arrayInvitados()
             'niños' => ''
         ),
 //43
-        'ef7966590f4' => array(
-            'tratamiento' => 'Invitado',
-            'nombre' => 'Carlos Solares',
-            'adultos' => '1 Adulto',
-            'niños' => ''
-        ),
         // Arely
 //44
         '3ba352e896' => array(
@@ -451,7 +427,7 @@ function arrayInvitados()
         '183d5e63fb' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'Vázquez Domínguez',
-            'adultos' => '3 Adultos',
+            'adultos' => '4 Adultos',
             'niños' => '1 Niño'
         ),
 //49
@@ -585,7 +561,7 @@ function arrayInvitados()
         'dc58feb84b' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'Amador Hernández',
-            'adultos' => '3 Adultos',
+            'adultos' => '2 Adultos',
             'niños' => ''
         ),
 //69
@@ -599,7 +575,7 @@ function arrayInvitados()
         '321b7d2c38' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'Cruz Amador',
-            'adultos' => '2 Adultos',
+            'adultos' => '3 Adultos',
             'niños' => ''
         ),
 //71
@@ -763,7 +739,7 @@ function arrayInvitados()
         '1b2ee4c8ba' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'Quintero Muñoz',
-            'adultos' => '2 Adultos',
+            'adultos' => '3 Adultos',
             'niños' => ''
         ),
         'a4h9e0c09' => array(
@@ -793,6 +769,12 @@ function arrayInvitados()
         '3V5audRxjPVMs8Dy' => array(
             'tratamiento' => 'Invitado',
             'nombre' => 'Juan José Fernández',
+            'adultos' => '2 Adultos',
+            'niños' => ''
+        ),
+        'j8dud45xjPV' => array(
+            'tratamiento' => 'Invitada',
+            'nombre' => 'Luz María Flores',
             'adultos' => '2 Adultos',
             'niños' => ''
         ),
