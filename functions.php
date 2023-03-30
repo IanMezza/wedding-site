@@ -427,7 +427,7 @@ function arrayInvitados()
         '183d5e63fb' => array(
             'tratamiento' => 'Familia',
             'nombre' => 'Vázquez Domínguez',
-            'adultos' => '4 Adultos',
+            'adultos' => '3 Adultos',
             'niños' => '1 Niño'
         ),
 //49
@@ -775,7 +775,7 @@ function arrayInvitados()
         'j8dud45xjPV' => array(
             'tratamiento' => 'Invitada',
             'nombre' => 'Luz María Flores',
-            'adultos' => '2 Adultos',
+            'adultos' => '3 Adultos',
             'niños' => ''
         ),
     );
